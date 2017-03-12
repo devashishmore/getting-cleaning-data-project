@@ -26,6 +26,6 @@ The following files were read into tables:
 ## Change the activity names in an easily understandable form
 * The **gsub()** function was used to change activity names
 
-## Create an independent tidy dataset
+## Average the data and create an independent tidy dataset
 * The **plyr** package was used
-* Using the **aggregate()** and **write.table()** functions the data was put into tidyData.txt
+* Using the **aggregate()** average was calculated and using **write.table()** function the data was put into tidyData.txt
